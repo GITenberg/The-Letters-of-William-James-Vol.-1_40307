@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '37161'
     url: http://www.gutenberg.org/2009/agents/37161
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40307#The-Letters-of-William-James-Vol.-1
 gutenberg_issued: '2012-07-23'
 gutenberg_type: Text
 identifiers:
